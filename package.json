@@ -2,6 +2,7 @@
   "name": "dev-tools",
   "version": "0.0.1",
   "description": "Scripts and LIBs required for development",
+  "repository": "https://github.com/khs9339/dev-tools.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
