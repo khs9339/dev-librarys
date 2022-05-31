@@ -1,6 +1,6 @@
 {
   "name": "dev-librarys",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scripts and LIBs required for development",
   "repository": "https://github.com/khs9339/dev-librarys.git",
   "main": "index.js",
@@ -14,5 +14,8 @@
     "shell"
   ],
   "author": "hyo",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "dev-librarys": "index.js"
+  }
 }
